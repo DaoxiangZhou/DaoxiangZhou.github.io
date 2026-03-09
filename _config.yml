@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daoxiang ZHOU<br>(周稻祥)"
+title                    : "Daoxiang ZHOU (周稻祥)"
 description              : "Focusing on pattern recognition."
 repository               : "dxtyut/dxtyut.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dxtyut"
+  github           : "dxtyut"
   google_plus      :
   keybase          :
   instagram        :
