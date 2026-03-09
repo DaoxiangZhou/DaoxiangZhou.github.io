@@ -7,11 +7,11 @@
 <div class='paper-box-text' markdown="1">
 
 [Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://doi.org/10.1016/j.asoc.2024.112237) \\
-Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxiang Zhou**. \\
+Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxiang Zhou***. \\
 *Applied Soft Computing*, 2024.
 
 - Feature- and logits-level distillation are combined to transfer the rich knowledge of teacher to student.
-- A head-aware strategy is proposed to deal with the dimension mismatching issue of middle encoder layers between teacher and student networks, in which a novel attention head correlation matrix is introduced.
-- Our method can bridge the performance gap between teacher and student, and the resulting student network is extremely lightweight with only 5 MB parameters. 
+- A head-aware strategy is proposed to deal with the dimension mismatching issue of middle encoder layers between teacher and student networks.
+- Our student network is extremely lightweight with only 5 MB parameters. 
 </div>
 </div>
