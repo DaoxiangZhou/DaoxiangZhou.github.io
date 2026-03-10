@@ -29,7 +29,7 @@ _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
 Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, \\
 Shu Feng, **Daoxiang Zhou***. \\
 [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909). \\
-_Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>..
+_Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>.
 
 - It is a plug-and-play module and can be easily incorporated into any domain alignment methods.
 - Angular margin loss is called to enhance the discrimination power for classifier. 
@@ -67,7 +67,7 @@ _Applied Soft Computing_ <span style="color:red; font-weight:bold;">(SCI, Q2-TOP
 
 
 ## Co-authored English Papers
-- ``GRSL 2023``  Zhigang Yang, **Daoxiang Zhou**, Ying Yang, Jiapeng Zhang, Zehua Chen*. [Road extraction from satellite imagery by road context and full-stage feature](https://ieeexplore.ieee.org/abstract/document/9982686). _IEEE Geoscience and Remote Sensing Letters_ <span style="color:blue; font-weight:bold;">(SCI)</span><span style="color:red; font-weight:bold;">(ESI)</span><img src='./images/ESI.gif' style="width: 4em;">.
+- ``GRSL 2023``  Zhigang Yang, **Daoxiang Zhou**, Ying Yang, Jiapeng Zhang, Zehua Chen*. [Road extraction from satellite imagery by road context and full-stage feature](https://ieeexplore.ieee.org/abstract/document/9982686). _IEEE Geoscience and Remote Sensing Letters_ <span style="color:red; font-weight:bold;">(ESI)</span><img src='./images/ESI.gif' style="width: 2em;">.
 - ``ESWA 2024`` Jianan Zhang, Yongfei Wu*, Fang Hao, Xueyu Liu, Ming Li, **Daoxiang Zhou**, Wen Zheng. [Double similarities weighted multi-instance learning kernel and its application](). _Expert Systems with Applications_ <span style="color:red; font-weight:bold;">(SCQ Q1-TOP)</span>.
 - ``TIV 2024`` Xianzhi Ma, Xiaokai Zhang, Daoxiang Zhou, Zehua Chen*. [StripUnet: A Method for Dense Road Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10508493). _IEEE Transactions on Intelligent Vehicles_ <span style="color:red; font-weight:bold;">(SCI Q1)</span>.
 - ``Measurement 2022`` Yexin Lai, Xueyu Liu, Yongfei Wu*, **Daoxiang Zhou**, Chen Wang, Dan Niu, Weixia Han, Xiaoshuang Zhou, Jiayan Chen, Wen Zheng. [Interstitial fibrosis and tubular atrophy measurement via hierarchical extractions of kidney and atrophy regions with deep learning method](https://www.sciencedirect.com/science/article/abs/pii/S0263224122010818). _Measurement_ <span style="color:red; font-weight:bold;">(SCI Q2)</span>.
