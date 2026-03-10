@@ -13,9 +13,9 @@ Dongxi Li, **Daoxiang Zhou***. \\
 [Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]() \\
 _ICASSP_.
 
-- Feature- and logits-level distillation are combined to transfer the rich knowledge of teacher to student.
-- A head-aware strategy is proposed to deal with the dimension mismatching issue of middle encoder layers between teacher and student networks.
-- Our student network is extremely lightweight with only 5 MB parameters. 
+- A novel online distillation framework tailored for FAS, enabling bidirectional feature transfer and collaborative train￾ing between teacher and student.
+- We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face.
+- We introduce a feature mutual calibration distillation loss to deal with intermediate feature mismatches between heterogeneous teacher and student architecture.
 </div>
 </div>
 
@@ -41,7 +41,7 @@ Shu Feng, **Daoxiang Zhou***. \\
 [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909). \\
 _Engineering Applications of Artificial Intelligence_.
 
-- It is a plug-and-play module and can be easily incorporated into any domain alignment methods without increasing the model complexity and computational burden. S
+- It is a plug-and-play module and can be easily incorporated into any domain alignment methods.
 - Angular margin loss is called to enhance the discrimination power for classifier. 
 - Entropy regularization is exploited to highlight the probability of potential related class.
 </div>
