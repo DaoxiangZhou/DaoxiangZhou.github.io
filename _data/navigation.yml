@@ -7,10 +7,10 @@ main:
     url: "/#-news"
 
   - title: "招生信息"
-    url: "/#-CallMember"
+    url: "/#-招生信息"
 
     - title: "Research Projects"
-    url: "/#-Project"
+    url: "/#-Research Projects"
     
   - title: "Publications"
     url: "/#-publications"
@@ -18,5 +18,5 @@ main:
   - title: "Certifications and Awards"
     url: "/#-Certifications and Awards"
 
-  - title: "毕业生"
-    url: "/#-Alumni"
+  - title: "毕业生研究生"
+    url: "/#-毕业研究生"
