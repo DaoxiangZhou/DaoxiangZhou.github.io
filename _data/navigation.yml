@@ -6,17 +6,17 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "招生信息"
-    url: "/#-招生信息"
-
-    - title: "Research Projects"
-    url: "/#-Research Projects"
-    
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Certifications and Awards"
-    url: "/#-Certifications and Awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "毕业生研究生"
-    url: "/#-毕业研究生"
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+
+  - title: "Internships"
+    url: "/#-internships"
