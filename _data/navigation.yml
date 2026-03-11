@@ -5,18 +5,40 @@ main:
 
   - title: "News"
     url: "/#-news"
+    
+  - title: "招生信息"
+    url: "/#-招生信息"
 
+  - title: "Research Projects"
+    url: "/#-Research-Projects"
+  
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Certifications and Awards"
+    url: "/#-certifications-and-awards"
+    
+  - title: "毕业研究生"
+    url: "/#-毕业研究生（部分）"
 
-  - title: "Educations"
-    url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+#  - title: "About Me"
+#    url: "/#about-me"
 
-  - title: "Internships"
-    url: "/#-internships"
+#  - title: "News"
+#    url: "/#-news"
+
+#  - title: "Publications"
+#    url: "/#-publications"
+
+#  - title: "Honors and Awards"
+#    url: "/#-honors-and-awards"
+
+#  - title: "Educations"
+#    url: "/#-educations"
+
+#  - title: "Invited Talks"
+#    url: "/#-invited-talks"
+
+#  - title: "Internships"
+#    url: "/#-internships"
