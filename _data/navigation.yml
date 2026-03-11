@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
     
-  - title: "招生信息"
-    url: "/#-招生信息"
+  - title: "Recruitment"
+    url: "/#recruitment"
 
   - title: "Research Projects"
     url: "/#-Research-Projects"
