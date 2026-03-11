@@ -12,10 +12,8 @@ Notation * indicates Corresponding Author.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jun Zhang,  Jia Shen, Hui Wang, Jiahua Liu, Yixing Gao, Shu Feng, \\
-Dongxi Li, **Daoxiang Zhou***. \\
-[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]() \\
-_ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
+Jun Zhang,  Jia Shen, Hui Wang, Jiahua Liu, Yixing Gao, Shu Feng, Dongxi Li, **Daoxiang Zhou***. \\
+[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]()  _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
 
 - We propose a novel online distillation framework, enabling bidirectional feature transfer and collaborative training between teacher and student.
 - We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face image.
@@ -26,10 +24,8 @@ _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2024</div><img src='images/EAAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, \\
-Shu Feng, **Daoxiang Zhou***. \\
-[ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909). \\
-_Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>.
+Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, Shu Feng, **Daoxiang Zhou***. \\
+[ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909). _Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>.
 
 - It is a plug-and-play module and can be easily incorporated into any domain alignment methods.
 - Angular margin loss is called to enhance the discrimination power for classifier. 
@@ -40,10 +36,8 @@ _Engineering Applications of Artificial Intelligence_ <span style="color:red; fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2024</div><img src='images/ASOC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, \\
-**Daoxiang Zhou***. \\
-[Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624010111) \\
-_Applied Soft Computing_ <span style="color:red; font-weight:bold;">(SCI, Q2-TOP)</span>.
+Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxiang Zhou***. \\
+[Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624010111)  _Applied Soft Computing_ <span style="color:red; font-weight:bold;">(SCI, Q2-TOP)</span>.
 
 - Feature- and logits-level distillation are combined to transfer the rich knowledge of teacher to student.
 - A head-aware strategy is proposed to deal with the dimension mismatching issue of middle encoder layers between teacher and student networks.
