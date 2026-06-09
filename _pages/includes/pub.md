@@ -13,7 +13,7 @@ Notation * indicates Corresponding Author.
 <div class='paper-box-text' markdown="1">
 
 Jun Zhang,  Jia Shen, Hui Wang, Jiahua Liu, Yixing Gao, Shu Feng, Dongxi Li, **Daoxiang Zhou***. \\
-[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]().  _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>. \| [CODE](https://github.com/Maricle-zhangjun/HFMC-FAS)
+[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing](https://ieeexplore.ieee.org/document/11463904).  _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>. \| [CODE](https://github.com/Maricle-zhangjun/HFMC-FAS)
 
 - We propose a novel online distillation framework, enabling bidirectional feature transfer and collaborative training between teacher and student.
 - We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face image.
