@@ -9,6 +9,18 @@ Notation * indicates Corresponding Author.
 
 ## First Author and Corresponding Author English Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2026</div><img src='images/OrthGabor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Daoxiang Zhou***, Feixue Shao, Jun Zhang, Yunfei Zhang, Shu Feng. \\
+[Multi-scale orthogonal Gabor filters based ConvNets for illumination robust single sample face recognition](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744). _Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>. \| [CODE](https://github.com/DaoxiangZhou/OrthGabor)
+
+- We proposed a novel PFCNN method with orthogonal Gabor filters.
+- We orthogonalized the Gabor filters to enhance the noise robustness and discriminative power.
+- We processed the 5 scales of Gabor filters separately, embedding multi-scale information under a single filter size.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
