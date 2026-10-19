@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 One paper is accepted by Journal The Visual Computer
 - *2026.07*: 🎉 One paper is accepted by Journal SIVP
 - *2026.07*: 🎉 One paper is accepted by CCF Conference PRCV
 - *2026.03*: 🎉 One paper is accepted by International Conference ICDIP
