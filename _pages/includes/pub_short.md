@@ -80,7 +80,7 @@ Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxia
 **Daoxiang Zhou***, Shu Feng. \\
 [M3SPCANet: A simple and effective ConvNets with unsupervised predefined filters for face recognition](https://www.sciencedirect.com/science/article/abs/pii/S095219762200152X).  _Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>. \| [CODE](https://github.com/DaoxiangZhou/facerecognition)
 - We present a novel lightweight CNN alternative with predefined PCA filters to learn face feature representation.
-- we learn multi-scale features that are complement with each other with stacking strategy.
+- We learn multi-scale features that are complement with each other with stacking strategy.
 - We leverage spatial pyramid SOP for high-order correlation information between each pair of channel features.
 </div>
 </div>
