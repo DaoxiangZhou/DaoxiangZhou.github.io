@@ -96,7 +96,7 @@ Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxia
 <div class='paper-box-text' markdown="1">
 
 Zhigang Yang, **Daoxiang Zhou**, Ying Yang, Jiapeng Zhang, Zehua Chen*. \\
-[Road extraction from satellite imagery by road context and full-stage feature](https://ieeexplore.ieee.org/abstract/document/9982686). _IEEE Geoscience and Remote Sensing Letters_ <span style="color:red; font-weight:bold;">(ESI)</span><img src='./images/ESI.gif' style="width: 2em;">. \| [CODE](https://github.com/CVer-Yang/RCFSNet)
+[Road extraction from satellite imagery by road context and full-stage feature](https://ieeexplore.ieee.org/abstract/document/9982686). _IEEE Geoscience and Remote Sensing Letters_ <span style="color:red; font-weight:bold;">(ESI，高被引论文)</span><img src='./images/ESI.gif' style="width: 2em;">. \| [CODE](https://github.com/CVer-Yang/RCFSNet)
 - We propose the MSCE module to capture the long-range dependencies, which can efficiently capture road context over long distances.
 - Multiple FSFF in skip connection that integrates features in different stages are constructed.
 - We devise a coordinate dual attention mechanism in FSFF to strengthen the channel and spatial features of roads.
