@@ -15,3 +15,4 @@
 -  (Supervisor) 研究数学建模竞赛，<font color=red>国二</font> (2024, 2025). <font color=red>国三</font> (2024(x2)).
 -  (Supervisor) 市场调查与分析大赛，<font color=red>国三</font> (2024, 2025).
 -  (Supervisor) 互联网+创新创业大赛，<font color=blue>省金奖</font> (2022). <font color=blue>省银奖</font> (2023).
+-  (Supervisor) 蓝桥杯大赛，<font color=blue>省一等奖</font> (2025).
