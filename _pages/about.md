@@ -17,7 +17,7 @@ redirect_from:
 
 {% include_relative includes/Project.md %}
 
-{% include_relative includes/pub.md %}
+{% include_relative includes/pub_short.md %}
 
 {% include_relative includes/CertificationsAwards.md %}
 
