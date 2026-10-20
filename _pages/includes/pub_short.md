@@ -13,7 +13,7 @@ Notation * indicates Corresponding Author.
 <div class='paper-box-text' markdown="1">
   
 **Daoxiang Zhou***, Feixue Shao, Jun Zhang, Yunfei Zhang, Shu Feng. \\
-[Multi-scale orthogonal Gabor filters based ConvNets for illumination robust single sample face recognition](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744). _Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>. \| <span style="color:cyan; font-weight:bold;">[CODE](https://github.com/DaoxiangZhou/OrthGabor)
+[Multi-scale orthogonal Gabor filters based ConvNets for illumination robust single sample face recognition](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744). _Engineering Applications of Artificial Intelligence_ <span style="color:red; font-weight:bold;">(SCI, Q1-TOP)</span>. \| [CODE](https://github.com/DaoxiangZhou/OrthGabor)
 
 - We propose a novel PFCNN method with orthogonal Gabor filters.
 - We orthogonalize the Gabor filters to enhance the noise robustness and discriminative power.
